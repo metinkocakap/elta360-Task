@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins&display=swap%27');
+
+
+.bg-progress {
+    background-color: #0B2554!important;
+}
+.Progstyle{
+    height: 10px;
+    background-color: #A3ADBE;
+  
+}
+.picturePhoto{
+    height: 44px;
+    width: 417px;
+
+}
+.card2{
+    background-color: #F3F4F6;
+    border-radius: 22px;
+    border: none;
+    width: 95%;
+}
+.card{
+    background-color: #F3F4F6;
+    border-radius: 22px;
+    border: none;
+ 
+}
+.arrows{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 32px;
+}
+.arrowsLeft{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+ 
+}
+.arrowsRight{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+}
+
+.title{
+    font-family: 'Poppins', sans-serif;
+    font-size:41px;
+    
+}
+.subtitle{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+
+.con-Btn2{
+    width: 195px;
+    height: 63px;
+    position: relative;
+    left: 67%;
+    margin-top: 50px;
+}
+.cont-Btn{
+    width: 195px;
+    height: 63px;
+}
+.mobilephoto{
+    width: 234px;
+    height: 234px;
+}
+.click{
+    height: 33px;
+    width: 33px;
+}
+.checktext{
+    font-size: 20px;
+    margin-left:20px ;
+}
+.photo{
+    margin-bottom: 20px;
+}
+.picturePhoto2{
+    position: absolute;
+    right: 4%;
+    bottom: -60px;
+}
+@media only screen and (max-width: 992px) {
+.card2{
+    height: 100vh;
+    background-color: white;
+}
+.photo{
+    display: none!important;
+}
+.resCheck{
+    display: flex;
+    align-items: center;
+    background-color: #0B2554;
+    color: white;
+    border-radius: 20px;
+    font-family: 'Poppins', sans-serif;
+    height: 167px;
+    margin-bottom: 20px;
+}
+.resCheck2{
+   display: flex;
+   align-items: center;
+   background-color: #1D62E2;
+   color: white ;
+   border-radius: 20px;
+   font-family: 'Poppins', sans-serif;
+   height: 167px;
+   margin-bottom: 20px;
+}
+.click{
+    height: 103px;
+    width: 103px;
+}
+.con-Btn{
+    border-radius: 20px;
+    font-size: 45px;
+    font-family: 'Poppins', sans-serif;
+    height: 167px;
+   width: 100%;
+   margin-bottom: 50px;
+  
+}
+.checktext{
+    font-size: 45px;
+}
+  }
